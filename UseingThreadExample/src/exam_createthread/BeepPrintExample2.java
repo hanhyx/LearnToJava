@@ -43,9 +43,9 @@ public class BeepPrintExample2 {
 		});
 		
 		
-		
-		
 		thread.start();
+		
+		
 
 		// "띵" 문자열을 5번 출력하는 작업
 		for (int i = 0; i < 5; i++) {
